@@ -18,7 +18,7 @@ namespace Tyuiu.ShaukerovaAN.Sprint4.Task5.V10
             Console.Title = "Спринт #4 | Выполнила: Шаукерова А.Н. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт#4                                                                *");
-            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
+            Console.WriteLine("* Тема: Двумерные массивы. (генератор случайных чисел)                    *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнила: Шаукерова Аделия Нуржановна | ИСТНб-23-1                     *");
